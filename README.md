@@ -1,3 +1,3 @@
 # css
-Playing around with CSS
+Playing around with CSS, responsive design
 
